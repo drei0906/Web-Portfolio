@@ -91,7 +91,6 @@ li {
 
 #projects a:hover {
     background-color: #cfe7f6;
-    transform: translateY(-2px);
 }
 
 form {
