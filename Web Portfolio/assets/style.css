@@ -38,7 +38,6 @@ nav a {
     font-weight: bold;
     text-decoration: none;
     padding: 12px 18px;
-    transition: color 0.2s ease, background 0.2s ease;
 }
 
 nav a:hover {
@@ -86,7 +85,6 @@ li {
     text-decoration: none;
     border-radius: 14px;
     padding: 18px;
-    transition: transform 0.2s ease, background-color 0.2s ease;
 }
 
 #projects a:hover {
@@ -109,11 +107,6 @@ textarea {
     margin: 10px 0;
 }
 
-input::placeholder,
-textarea::placeholder {
-    color: #94a3b8;
-}
-
 input[type="submit"] {
     cursor: pointer;
     border: none;
@@ -122,7 +115,6 @@ input[type="submit"] {
     color: #ffffff;
     padding: 14px 20px;
     font-weight: bold;
-    transition: background 0.2s ease;
 }
 
 input[type="submit"]:hover {
